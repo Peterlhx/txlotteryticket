@@ -1,0 +1,20 @@
+#gopng_recommend {
+	background: url(../../assets/images/sprite.png) -0px -0px no-repeat;
+	height: 27px;
+	width: 21px;
+}
+#gopng_refresh {
+	background: url(../../assets/images/sprite.png) -21px -0px no-repeat;
+	height: 26px;
+	width: 35px;
+}
+#gopng_bonus {
+	background: url(../../assets/images/sprite.png) -56px -0px no-repeat;
+	height: 25px;
+	width: 25px;
+}
+#gopng_time {
+	background: url(../../assets/images/sprite.png) -81px -0px no-repeat;
+	height: 25px;
+	width: 25px;
+}
